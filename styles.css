@@ -1,0 +1,31 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/3493224.jpg');
+    background-size: cover;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: underline;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+#outer {
+    margin: 100px auto;
+    width: 30%;
+    border: 5px;
+    padding: 10px 0;
+    background-color: rgba(128,128,128,.8);
+}
+#shopping-list {
+    width: 70%;
+    margin: 0 auto;
+}
+input {
+    width: 250px;
+}
+
+#display {
+    text-decoration:wavy;
+    font-style: italic;
+    font-size: 110%;
+}
